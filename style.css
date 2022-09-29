@@ -37,6 +37,7 @@ body{
 }
 .card.user1{
     background-color: var(--violet);
+    background: var(--violet) url(/images/bg-pattern-quotation.svg) no-repeat right 50px top;
 }
 .card.user2{
     background-color: var(--gray);
